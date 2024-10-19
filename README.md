@@ -1,2 +1,1 @@
-# Robotics
-Drone DJI TELLO Simulation
+In this paper we study the DJI TELLO Drone through its simulation and programming. For the simulation of the drone we used FCND-Simulator and the programming was done using python programming language. The aim of this work is to deepen the practical use of programming for automatic devices and to understand the difficulties and deviations that are created through the experiments we will conduct.
